@@ -1,0 +1,29 @@
+Basic Arithmetic Operations:
+
++ (addition)
+- (subtraction)
+* (multiplication)
+/ (division)
+// (floor division), 5.4 its 5
+% (modulo) 22/5=2
+** (exponentiation) 2**2=4
+Built-in Functions:
+
+abs(x): Returns the absolute value of x.
+round(x, n): Rounds x to the nearest n digits.
+int(x): Converts x to an integer.
+float(x): Converts x to a floating-point number.
+Math Module:
+
+math.sqrt(x): Returns the square root of x.
+math.pow(x, y): Returns x raised to the power y.
+math.exp(x): Returns the exponential of x.
+math.log(x): Returns the natural logarithm of x.
+math.sin(x), math.cos(x), math.tan(x): Trigonometric functions.
+Random Module:
+
+random.random(): Returns a random float in the range [0.0, 1.0).
+random.randint(a, b): Returns a random integer in the range [a, b].
+Complex Numbers:
+
+Python supports complex numbers, and you can perform operations on them using the complex class.
